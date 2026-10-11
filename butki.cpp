@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
 
-    cout<<"Chuiyaaa kahi ki";
+    cout<<"gadha kahika";
 }
